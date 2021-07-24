@@ -1,6 +1,5 @@
 import re
 import os
-import glob
 
 fileNameSEO = [
     " - Keto Certified - Keto Diet - Keto Approved",
