@@ -1,5 +1,9 @@
 import re
 import os
+<<<<<<< HEAD
+=======
+import glob
+>>>>>>> 3d7ab6c (initial commit)
 
 fileNameSEO = [
     " - Keto Certified - Keto Diet - Keto Approved",
